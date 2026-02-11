@@ -17,7 +17,8 @@
 ## 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,aws,docker,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,java,spring,python,postgres,aws,docker,vscode,idea" />
+
 </p>
 
 ---
