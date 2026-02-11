@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Gabriel</h1>
+## Olá 👋, eu sou Gabriel
 
 <p align="center">
 💻 Full Stack Developer
