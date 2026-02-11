@@ -1,4 +1,4 @@
-## Olá 👋, eu sou Gabriel
+## Olá, eu sou o Gabriel!
 
 <p align="center">
 💻 Full Stack Developer
@@ -17,7 +17,7 @@
 ## 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,aws,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,aws,docker,vscode,idea" />
 </p>
 
 ---
