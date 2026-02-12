@@ -1,4 +1,4 @@
-## 👋 Prazer, eu sou o Gabriel
+## 👋 Prazer, eu sou o Gabriel!
 
 
 <p align="center">
